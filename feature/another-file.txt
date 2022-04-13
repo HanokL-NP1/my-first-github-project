@@ -6,3 +6,6 @@ new line added in feature-2 branch
 
 
 yet another addition in feature-2
+
+
+edit in feature 2
