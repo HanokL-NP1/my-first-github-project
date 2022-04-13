@@ -3,3 +3,5 @@ this line was modified manuakky during conflicts resolution
 
 
 this line denotes changes.
+
+new line added locally
