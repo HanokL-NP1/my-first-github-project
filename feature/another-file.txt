@@ -1,3 +1,5 @@
 another-file.txt created in feature branch
 
 This file was changed locally.
+
+new line added in feature-2 branch
